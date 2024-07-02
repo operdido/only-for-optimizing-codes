@@ -1,0 +1,9 @@
+{
+    Main = Window:AddTab({ Title = "Info.", Icon = "info" }),
+    MFarm = Window:AddTab({ Title = "Main Farm", Icon = "line-chart" }),
+    SFarm = Window:AddTab({ Title = "Sea Farm", Icon = "anchor" }),
+    FSettings = Window:AddTab({ Title = "Farm Settings", Icon = "sliders-horizontal" }),
+    Player = Window:AddTab({ Title = "Player", Icon = "user-cog" }),
+    Misc = Window:AddTab({ Title = "Misc.", Icon = "circle-ellipsis" }),
+    Settings = Window:AddTab({ Title = "Settings", Icon = "settings" })
+}
