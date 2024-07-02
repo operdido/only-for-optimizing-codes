@@ -1,4 +1,4 @@
-{
+local Tabs = {
     Main = Window:AddTab({ Title = "Info.", Icon = "info" }),
     MFarm = Window:AddTab({ Title = "Main Farm", Icon = "line-chart" }),
     SFarm = Window:AddTab({ Title = "Sea Farm", Icon = "anchor" }),
